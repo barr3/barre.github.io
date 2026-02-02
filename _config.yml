@@ -1,1 +1,9 @@
-theme: jekyll-theme-modernist
+#theme: jekyll-theme-modernist
+
+title: Barre Blomberg
+description: Student & Tech Enthusiast
+theme: jekyll-theme-minimal
+
+# These variables help some themes automatically link your profiles
+github_username: barr3
+linkedin_username: barreblomberg
